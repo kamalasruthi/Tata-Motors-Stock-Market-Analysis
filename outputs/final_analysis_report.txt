@@ -1,0 +1,49 @@
+
+TATA MOTORS STOCK MARKET DATA ANALYSIS
+Historical Period: 2000-2025
+
+OVERALL PERFORMANCE
+-------------------
+First Adjusted Price: Rs. 32.08
+Last Adjusted Price: Rs. 364.33
+Adjusted Price Return: 1035.58%
+
+ANNUAL PERFORMANCE
+------------------
+Best Year: 2009
+Best Annual Return: 402.33%
+
+Worst Year: 2008
+Worst Annual Return: -77.09%
+
+DAILY RETURNS
+-------------
+Average Daily Return: 0.0767%
+Best Daily Return: 20.45%
+Worst Daily Return: -40.15%
+
+VOLATILITY
+----------
+Average Rolling Annualized Volatility:
+40.61%
+
+Maximum Rolling Annualized Volatility:
+127.28%
+
+MAXIMUM DRAWDOWN
+----------------
+Maximum Drawdown: -89.08%
+Peak Date: 2015-01-27
+Trough Date: 2020-04-03
+
+TRADING VOLUME
+--------------
+Average Volume: 16,252,183
+Maximum Volume: 390,577,839
+
+NOTE
+----
+Historical adjusted-price analysis only.
+This report is not investment advice.
+Corporate actions and the 2025 demerger
+must be considered when interpreting results.
